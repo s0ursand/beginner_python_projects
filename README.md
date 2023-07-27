@@ -1,6 +1,6 @@
 # beginner_python_projects
 
-This repository contains a collection of classic text-based games implemented in Python, they're pretty basic, perfect for beginners who just starting out with python
+This repository contains a collection of classic text-based games implemented in Python, they're pretty basic, perfect for beginners who just are just starting out with python
 
 Games Included:
 

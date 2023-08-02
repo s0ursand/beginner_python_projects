@@ -19,6 +19,9 @@ File: rock_paper_scissors.py
 TicTacToe
 File: tictactoe.py
 
+Bagels
+File: bagels.py
+
 Gameplay Instructions
 
 Hangman:
@@ -35,3 +38,6 @@ You think of a number, and the computer will try to guess it. Provide hints like
 
 Rock-Paper-Scissors:
 Play the classic rock-paper-scissors game against the computer. Choose your move, and see if you can beat the computer.
+
+Bagels:
+You have limited attempts to guess an n digit number with no repeated digits. The computer will give you feedback on whether there is a correct digit in the wrong position, a correct digit in the correct position or no correct digits.
